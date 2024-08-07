@@ -1,0 +1,19 @@
+EXP NO	DATE	TITLE
+1
+	16/08/2022	Linear search and binary Search
+2	23/08/2022	Insertion sort and bubble Sort
+3	30/08/2022	Structures
+4	06/09/2022	Inserting And deleting an element in array
+5	06/09/2022	Insertion and deletion in doubly linked list
+6	20/09/2022	Implementation of Stack using array and linked list
+7
+	27/09/2022	Implementation of queue using array and linked list
+8	11/10/2022	Application of stack (infix to postfix conversion)
+9	11/10/2022	Implementation of binary search tree using array
+10	18/10/2022	Implementation of BST using linked list
+11	18/10/2022	Implementation of B trees
+12	01/11/2022	Implementation of graph using array
+13	01/11/2022	Implementation of shortest path algorithm (Dijkstra algorithm)
+14	08/11/2022	Implementation of minimal spanning tree (prims algorithm)
+15	15/11/2022	Implementation of linked list- cursor based implementation
+
